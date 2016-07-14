@@ -1,3 +1,6 @@
 module.exports = {
-  FIREBASE_ROOT: 'https://<YOUR-FIREBASE-APP>.firebaseio.com/'
+  apiKey: "<YOUR-API-KEY>",
+  authDomain: "<YOUR-AUTH-DOMAIN>",
+  databaseURL: "<YOUR-DATABASE-URL>",
+  storageBucket: "",
 }
