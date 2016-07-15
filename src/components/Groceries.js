@@ -60,11 +60,7 @@ export default class Groceries extends Component {
     })
   }
 
-  // componentWillReceiveProps(nextProps) {
-  //   console.log('NEXT PROPS')
-  //   console.log(nextProps)
 
-  // }
 
   renderRow(rowData) {
     console.log(this.props.connected)
